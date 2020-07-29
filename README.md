@@ -1,2 +1,2 @@
 # git-gitHub
-SampleRepo
+SampleRepo and this is for learning purpose
